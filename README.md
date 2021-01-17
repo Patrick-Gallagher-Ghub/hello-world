@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello EARTHLINGS.
+
+G Wagon here IOT see what y'all are up to. 
